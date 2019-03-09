@@ -1,0 +1,10 @@
+1.
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37: note: declared here
+ EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+
+https://github.com/raulmur/ORB_SLAM2/issues/242#issuecomment-286090203
+
+2.
+usleep()
+
+https://github.com/raulmur/ORB_SLAM2/issues/646
